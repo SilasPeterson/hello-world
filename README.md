@@ -1,2 +1,1 @@
-# hello-world
-Learning Git
+This is me committing for the first time! 
